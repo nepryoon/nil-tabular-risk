@@ -1,7 +1,8 @@
 # NIL — Tabular Risk / Churn
 
-**Live docs:** https://www.neuromorphicinference.com/demos/tabular-risk  
-**Evidence index:** https://www.neuromorphicinference.com/evidence  
+> **Live docs:** https://www.neuromorphicinference.com/demos/tabular-risk  
+> **Evidence index:** https://www.neuromorphicinference.com/evidence  
+> **Demos hub:** https://www.neuromorphicinference.com/demos 
 
 ## Goal
 A production-style tabular scoring system: training + scoring + explainability + drift awareness.
